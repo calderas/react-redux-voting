@@ -8,4 +8,4 @@ store.dispatch({
   type: 'SET_ENTRIES',
   entries: require('./entries.json')
 });
-store.dispatch({type: 'NETX'});
+store.dispatch({type: 'NEXT'});
